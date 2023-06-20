@@ -25,6 +25,19 @@ Feel free to contact me to discuss any issues, questions or comments.
 - [GitHub](https://github.com/sergibech)
 - [Linkedin](https://www.linkedin.com/in/sergi-bech/)
 
+## Code citation
+
+```bibtex
+@misc{VTEBech,
+  author       = {Sergi Bech},
+  title        = {Assessing VTE in cancer patients using deep learning synthetic data generation and domain adaptation techniques},
+  year         = {2023},
+  howpublished = {GitHub repository},
+  url          = {https://github.com/sergibech/Master_thesis},
+  note         = {Accessed: June 20, 2023}
+}
+
+
 
 
 
