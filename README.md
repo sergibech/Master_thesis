@@ -20,6 +20,12 @@
   <p align="center"><em>Methodology proposal to improve Oncothromb score via synthetic data and transfer learning. </em></p>
 </div>
 
+## Contact
+Feel free to contact me to discuss any issues, questions or comments.
+- [GitHub](https://github.com/sergibech)
+- [Linkedin](https://www.linkedin.com/in/sergi-bech/)
+
+
 
 
     
