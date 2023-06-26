@@ -4,9 +4,9 @@
 
  ## Contributions
  
-- Experiment 1: Inside this folder, you'll find two notebooks. The first notebook presents our reproduction of a paper, including the permutation test and all the analyses outlined in my master's thesis. The second notebook replicates the findings of the Oncothromb paper; however, it excludes the preprocessing step and selects directly the same variables as the original paper.
-  - [Our reproduction of Oncothromb](Experiment%201/Paper_Reproduction.ipynb)
-  - [Oncothromb replication](Experiment%201/Baseline%20(selection%20of%20the%20same%20variables%20as%20the%20paper).ipynb)
+- Reproducing the ONCOTHROMB research paper: Inside this folder, you'll find two notebooks. The first notebook presents our reproduction of a paper, including the permutation test and all the analyses outlined in my master's thesis. The second notebook replicates the findings of the Oncothromb paper; however, it excludes the preprocessing step and selects directly the same variables as the original paper.
+  - [Our reproduction of Oncothromb](Reproducing%20the%20ONCOTHROMB%20research%20paper/Paper_Reproduction.ipynb)
+  - [Oncothromb replication](Reproducing%20the%20ONCOTHROMB%20research%20paper/Baseline%20(selection%20of%20the%20same%20variables%20as%20the%20paper).ipynb)
 
 - Experiment 2: This folder focuses on the performance study of various state-of-the-art GANs for tabular data. It includes a separate notebook for each architecture, as well as a folder named 'model' containing the code for CTABGAN with minor modifications to suit our dataset. The other methods are trained using the SDV library. Additionally, this folder contains the '.pkl' files for some trained GANs. 
   - [CopulaGAN](Experiment%202/Tabular_GANs_study_copulaGAN.ipynb)
