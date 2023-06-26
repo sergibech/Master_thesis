@@ -21,7 +21,7 @@
   <p align="center"><em>Methodology proposal to improve Oncothromb score via synthetic data and transfer learning. </em></p>
 </div>
 
-**Enhancing CTGAN with target encoding**: This folder contains the CTGAN code with our modification to handle tagret encoding for categorical variable and the study described in the thesis.
+**Enhancing CTGAN with target encoding**: This folder houses the CTGAN code, which includes our modifications for handling target encoding of categorical variables, along with the corresponding study detailed in the thesis.
  - [CTGAN target encoding](Enhancing%20CTGAN%20with%20target%20encoding/CTGAN%20target%20encoding.ipynb)
 
 ## Contact
